@@ -225,7 +225,7 @@ progress::-moz-progress-bar {
     #profile-pic {
         width:80%;
         display:block;
-        margin:24px;
+        /* margin:24px; */
     }
 
     .project-img-long {
@@ -627,7 +627,7 @@ progress::-moz-progress-bar {
     #profile-pic {
         width:80%;
         display: block;
-        margin: 24px;   
+        /* margin: 24px;    */
     }
 
     .social {
@@ -836,7 +836,7 @@ progress::-moz-progress-bar {
     #profile-pic {
         width: 80%;
         display: block;
-        margin: 24px;
+        /* margin: 24px; */
     }
     
     #my-pic {
