@@ -238,10 +238,19 @@ progress::-moz-progress-bar {
     }
     
     .project-vid-long {
-        width: 100vw;
+        /* width: 1000px;
         float: right;
         padding-left: 100px;
         padding-right: 4%;
+        display: block;
+        margin: auto; */
+        /* padding-right: 70px; */
+        /* overflow: hidden; */
+        width: 1000px;
+        display: block;
+        margin: auto;
+        padding-right: 4%;
+        overflow: hidden;
     }
     
     .sidebar {
@@ -307,15 +316,23 @@ progress::-moz-progress-bar {
     
     .project-img-long {
         max-width: 158%;
-/*        padding-right: 10%;*/
+       /* padding-right: 10%; */
     }
     
     
     .project-vid-long {
-        width: 100vw;
+        width: 960px;
         float: right;
         padding-left: 100px;
         padding-right: 4%;
+    }
+
+    .project-vid-mid{
+        width: 100%;
+        display: block;
+        margin: auto;
+        padding-right: 4%;
+        overflow: hidden;
     }
     
     footer{
@@ -488,11 +505,23 @@ progress::-moz-progress-bar {
     .project-img-med {
         width: 626px;
     }
+
+    .project-vid-mid{
+        width: 100%;
+        display: block;
+        margin: auto;
+        padding-right: 4%;
+        overflow: hidden;
+    }
     
     .project-vid-long {
     width: 100vw;
     float: right;
     padding-left: 100px;
+    display: block;
+    margin: auto;
+    /* padding-right: 70px; */
+    overflow: hidden;
     }
     
     #intro-pic {
@@ -831,6 +860,10 @@ progress::-moz-progress-bar {
         width: 100vw;
         float: right;
         padding-left: 60px;
+        display: block;
+        margin: auto;
+        /* padding-right: 70px; */
+        overflow: hidden;
     }
     
     #profile-pic {
