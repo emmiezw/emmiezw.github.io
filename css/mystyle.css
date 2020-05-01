@@ -229,7 +229,7 @@ progress::-moz-progress-bar {
     }
 
     .project-img-long {
-        max-width: 158%;
+        max-width: 148%;
 /*        padding-right: 10%;*/
     }
     
@@ -315,7 +315,7 @@ progress::-moz-progress-bar {
     }
     
     .project-img-long {
-        max-width: 158%;
+        max-width: 148%;
        /* padding-right: 10%; */
     }
     
@@ -1270,7 +1270,7 @@ ul {
 
 
 .project-vid-small {
-    width: 410px;
+    width: 600px;
     display: block;
     margin: auto;
     padding-right: 70px;
