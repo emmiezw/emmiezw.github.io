@@ -1278,6 +1278,14 @@ ul {
     
 }
 
+.project-vid-half {
+    width: 300px;
+    display: block;
+    margin: auto;
+    overflow: hidden;
+    
+}
+
 
 /*Home Illustrations*/
 
