@@ -664,6 +664,7 @@ progress::-moz-progress-bar {
     .details {
     /*pink links*/
     font-size: 14px;
+    font-weight: 600;
     margin: 25px 0px 25px 0px;
     letter-spacing: .62px;
     }
@@ -1161,7 +1162,7 @@ a .details:visited {
 
 .details {
     /*pink links*/
-    font-weight: 400;
+    font-weight: 600;
     color: #FF0071;
     text-transform: uppercase;
     z-index: 2;
