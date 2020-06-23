@@ -665,7 +665,7 @@ progress::-moz-progress-bar {
     /*pink links*/
     font-size: 14px;
     font-weight: 600;
-    margin: 25px 0px 25px 0px;
+    /* margin: 25px 0px 25px 0px; */
     letter-spacing: .62px;
     }
     
@@ -725,6 +725,7 @@ progress::-moz-progress-bar {
         -moz-transform: scale(1.015);
         transition: all 200ms ease-in;
     }
+
     
     .project-ui-div {
         display: block;
