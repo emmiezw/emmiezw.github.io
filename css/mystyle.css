@@ -20,6 +20,31 @@ a, nav li, .logo {
     cursor: pointer;
     }
 
+    .button {
+        background-color: #FF0071;
+        border: none;
+        color: white;
+        padding: 12px 24px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        font-weight: 600;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 32px;
+      }
+      
+      .button:hover{
+        background-color: #FFC61E;
+      }
+
+      .buttoncenter{
+        margin-top:30px;
+        /* margin-left: 40%; */
+    }
+
+
 /*Project Images*/
 .bottom-left{
     position: absolute;
@@ -109,7 +134,6 @@ body{
     float: left;
     display: inline-block;
 }
-
 
 
 /* animation*/
@@ -1167,11 +1191,11 @@ a .details:visited {
     color: #FF0071;
     text-transform: uppercase;
     z-index: 2;
-    border-bottom: none;
+    border-bottom: 1px #FF0071 solid;
 }
 
 .details:hover {
-    border-bottom: 2px #FF0071 solid;
+    
     text-decoration: none;
     color: #FF0071;
     padding-bottom: 1px;
